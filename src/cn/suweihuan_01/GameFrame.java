@@ -86,6 +86,7 @@ public class GameFrame extends JFrame {
 	}
 		public void launchFrame() {
 			//设置窗口标题
+			 //12312312
 			this.setTitle("坦克大战");
 			//设置窗口大小和位置
 			this.setBounds(0, 0, 900, 900);
